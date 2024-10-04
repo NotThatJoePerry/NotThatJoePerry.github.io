@@ -1,0 +1,7 @@
+# Hugo
+/public/
+/resources/
+hugo_stats.json
+
+# System Files
+.DS_Store

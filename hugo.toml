@@ -1,0 +1,24 @@
+baseURL = 'https://josephrperryiv.com/'
+languageCode = 'en-us'
+title = "Joseph Perry's Personal Website"
+theme = 'PaperMod'
+
+[menu]
+
+    [[menu.main]]
+        identifier = "sources"
+        name = "Sources"
+        url = "/sources/"
+        weight = 1
+
+    [[menu.main]]
+        identifier = "analysis"
+        name = "Analysis"
+        url = "/analysis/"
+        weight = 2
+
+    [[menu.main]]
+        identifier = "blog"
+        name = "Blog"
+        url = "/blog/"
+        weight = 3
