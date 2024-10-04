@@ -8,21 +8,21 @@
     <loc>http://localhost:1313/</loc>
     <lastmod>2024-10-04T16:56:46-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/analysis/</loc>
+    <loc>http://localhost:1313/analysis/index.xml</loc>
     <lastmod>2023-10-04T12:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/</loc>
+    <loc>http://localhost:1313/blog/index.xml</loc>
     <lastmod>2023-10-04T12:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/sources/</loc>
+    <loc>http://localhost:1313/sources/index.xml</loc>
     <lastmod>2023-10-04T12:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/archives/</loc>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>http://localhost:1313/categories/index.xml</loc>
   </url><url>
     <loc>http://localhost:1313/search/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>http://localhost:1313/tags/index.xml</loc>
   </url>
 </urlset>

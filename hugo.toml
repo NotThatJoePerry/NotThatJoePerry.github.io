@@ -41,11 +41,11 @@ baseURL = 'https://josephrperryiv.com/'
         weight = 4
 
 [outputs]
-    home = [ "HTML", "RSS", "JSON" ]
-    section = ["RSS"]
-    page = ["HTML"]
-    taxonomy = ["RSS"]
-    taxonomyTerm = ["RSS"]
+  home = ["HTML", "RSS", "JSON"]
+  section = ["HTML", "RSS"]
+  page = ["HTML"]
+  taxonomy = ["HTML", "RSS"]
+  taxonomyTerm = ["HTML", "RSS"]
 
 [taxonomies]
     category = "categories"
