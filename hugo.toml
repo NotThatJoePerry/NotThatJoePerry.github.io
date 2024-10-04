@@ -42,3 +42,13 @@ baseURL = 'https://josephrperryiv.com/'
 
 [outputs]
     home = [ "HTML", "RSS", "JSON" ]
+
+[taxonomies]
+    category = "categories"
+    tag = "tags"
+
+[markup]
+  [markup.highlight]
+    style = "monokai"
+    noClasses = false
+
