@@ -1,4 +1,4 @@
-baseURL = 'https://josephrperryiv.com/'
+baseURL = 'josephrperryiv.com/'
 languageCode = 'en-us'
 title = "Joseph Perry's Personal Website"
 theme = 'PaperMod'
