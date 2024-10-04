@@ -1,3 +1,44 @@
 languageCode = 'en-us'
 title = "Joseph Perry's Personal Website"
 theme = 'PaperMod'
+baseURL = 'https://josephrperryiv.com/'
+
+[params]
+    author = "Joseph Perry"
+    description = "This site aggregates my blog posts and analyses along with a daily post of the publicly-available intelligence I'm reviewing."
+    defaultTheme = "dark"
+    disableThemeToggle = false
+    ShowReadingTime = true
+    ShowShareButtons = true
+    ShowPostNavLinks = true
+    ShowBreadCrumbs = true
+    ShowCodeCopyButtons = true
+
+[menu]
+
+    [[menu.main]]
+        identifier = "sources"
+        name = "Sources"
+        url = "/sources/"
+        weight = 1
+
+    [[menu.main]]
+        identifier = "analysis"
+        name = "Analysis"
+        url = "/analysis/"
+        weight = 2
+
+    [[menu.main]]
+        identifier = "blog"
+        name = "Blog"
+        url = "/blog/"
+        weight = 3
+
+    [[menu.main]]
+        identifier = "about"
+        name = "About"
+        url = "/about/"
+        weight = 4
+
+[outputs]
+    home = [ "HTML", "RSS", "JSON" ]
