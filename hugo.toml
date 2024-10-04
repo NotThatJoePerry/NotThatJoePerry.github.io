@@ -33,7 +33,7 @@ baseURL = 'https://josephrperryiv.com/'
 
     [[menu.main]]
         name = "About"
-        url = "/about.md"
+        url = "/about/"
         weight = 4
 
 [outputs]
