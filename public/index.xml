@@ -1,19 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Joseph Perry&#39;s Personal Website</title>
-    <link>http://localhost:1313/</link>
+    <link>https://josephrperryiv.com/</link>
     <description>Recent content on Joseph Perry&#39;s Personal Website</description>
-    <generator>Hugo -- 0.134.2</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 04 Oct 2024 16:56:46 -0400</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://josephrperryiv.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>http://localhost:1313/about/</link>
+      <link>https://josephrperryiv.com/about/</link>
       <pubDate>Fri, 04 Oct 2024 16:56:46 -0400</pubDate>
-      <guid>http://localhost:1313/about/</guid>
+      <guid>https://josephrperryiv.com/about/</guid>
       <description>&lt;p&gt;My name is Joseph and this is my personal website. I&amp;rsquo;m a cybersecurity expert, a technologist, a game designer, and a writer. I use this site to aggregate public intelligence sources, analyses, and my own thoughts.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Archive</title>
+      <link>https://josephrperryiv.com/archives/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://josephrperryiv.com/archives/</guid>
+      <description>archives</description>
+    </item>
+    <item>
+      <title>Search</title>
+      <link>https://josephrperryiv.com/search/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://josephrperryiv.com/search/</guid>
+      <description>search</description>
     </item>
   </channel>
 </rss>
