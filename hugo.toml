@@ -51,3 +51,12 @@ baseURL = 'https://josephrperryiv.com/'
     style = "monokai"
     noClasses = false
 
+[[params.socialIcons]]
+    name = "GitHub"
+    url = "https://github.com/NotThatJoePerry"
+    icon = "fa-brands fa-github"
+
+[[params.socialIcons]]
+    name = "LinkedIn"
+    url = "https://linkedin.com/in/lousyhacker"
+    icon = "fa-brands fa-linkedin"
