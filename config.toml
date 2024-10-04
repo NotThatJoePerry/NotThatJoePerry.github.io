@@ -1,3 +1,5 @@
+baseURL = 'https://josephrperryiv.com/'
+
 [params]
     author = "Joseph Perry"
     description = "This site aggregates my blog posts and analyses along with a daily post of the publicly-available intelligence I'm reviewing."
