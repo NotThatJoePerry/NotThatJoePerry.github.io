@@ -42,6 +42,10 @@ baseURL = 'https://josephrperryiv.com/'
 
 [outputs]
     home = [ "HTML", "RSS", "JSON" ]
+    section = ["RSS"]
+    page = ["HTML"]
+    taxonomy = ["RSS"]
+    taxonomyTerm = ["RSS"]
 
 [taxonomies]
     category = "categories"
