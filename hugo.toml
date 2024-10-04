@@ -17,25 +17,21 @@ baseURL = 'https://josephrperryiv.com/'
 [menu]
 
     [[menu.main]]
-        identifier = "sources"
         name = "Sources"
         url = "/sources/"
         weight = 1
 
     [[menu.main]]
-        identifier = "analysis"
         name = "Analysis"
         url = "/analysis/"
         weight = 2
 
     [[menu.main]]
-        identifier = "blog"
         name = "Blog"
         url = "/blog/"
         weight = 3
 
     [[menu.main]]
-        identifier = "about"
         name = "About"
         url = "/about.md"
         weight = 4
@@ -45,7 +41,6 @@ baseURL = 'https://josephrperryiv.com/'
   section = ["HTML", "RSS"]
   page = ["HTML"]
   taxonomy = ["HTML", "RSS"]
-  taxonomyTerm = ["HTML", "RSS"]
 
 [taxonomies]
     category = "categories"
